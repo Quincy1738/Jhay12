@@ -1,0 +1,37 @@
+name: untitled
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  animations: ^2.0.7
+
+
+
+  # Localization support
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  assets:
+    - lib/assets/1.jpg
+    - lib/assets/2.jpg
+    - lib/assets/3.jpg
+    - lib/assets/4.jpg
+    - lib/assets/5.jpg
+    - lib/assets/6.jpg
+    - lib/assets/7.jpg
+    - lib/assets/8.jpg
